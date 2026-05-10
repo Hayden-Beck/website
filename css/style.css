@@ -97,7 +97,7 @@ h2 {
 
 /* mobile nav */
 @media (max-width: 600px) {
-  #header li:not(:first-child) {
+  #header li {
     display: none;
   }
 }
