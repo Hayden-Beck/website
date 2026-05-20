@@ -12,7 +12,7 @@ let i = 1;
 let j = 1;
 let isDeleting = false;
 
-const words = ["Resume'", "About Me'", "Experience'"];
+const words = ["Resume'", "Skills'", "Experience'"];
 
 function typingEffect() {
     const typingEffectID = document.getElementById("typing-effect");
